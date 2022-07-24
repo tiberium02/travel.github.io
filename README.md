@@ -1,7 +1,3 @@
-/**
-* travel.github.io
-*/
-
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
@@ -9,6 +5,10 @@
  *
  * @package WordPress
  */
+
+/**
+* travel.github.io
+*/
 
 /**
  * Tells WordPress to load the WordPress theme and output it.
